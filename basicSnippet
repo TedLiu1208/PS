@@ -1,0 +1,12 @@
+/**
+Creative Module: PS_noAdx
+Publisher: standard
+Inventory: standard
+
+**/
+
+<script>
+const ADUNIT = '%%ADUNIT%%';
+const n = '%n';
+</script>
+<script src="https://s0.2mdn.net/creatives/assets/2957910/test3.js"></script>
